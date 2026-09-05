@@ -1,0 +1,8 @@
+FastAPI
+Uvicorn
+Streamlit
+Requests
+python-dotenv
+Razorpay
+OpenAI
+Pydantic
